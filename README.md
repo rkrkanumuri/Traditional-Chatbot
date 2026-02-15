@@ -45,10 +45,8 @@ Traditional-Chatbot/
 ├── intents.json
 ├── requirements.txt
 ├── README.md
-├── screenshots/
-│     ├── ui.png
-│     ├── greeting.png
-│     ├── fallback.png
+├── images/
+│     ├── Chatbot Development Life Cycle.png
 ```
 
 ---
